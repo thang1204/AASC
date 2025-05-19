@@ -83,5 +83,12 @@ ngrok http 8000
 ---
 
 
-https://github.com/user-attachments/assets/6854f4c1-3d3e-4b01-992b-f8c95c5079d9
+Bài 1
+
+https://github.com/user-attachments/assets/caf63231-a22b-417d-a228-2d5891344afd
+
+Bài 2
+
+https://github.com/user-attachments/assets/31a4b990-9a8e-4200-9dcf-8d01a9cf5bf4
+
 
