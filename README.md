@@ -81,3 +81,7 @@ ngrok http 8000
 - Giao tiếp qua API Bitrix để quản lý contacts, requisites (thông tin ngân hàng).
 
 ---
+
+
+https://github.com/user-attachments/assets/6854f4c1-3d3e-4b01-992b-f8c95c5079d9
+
